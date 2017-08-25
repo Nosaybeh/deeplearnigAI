@@ -1,6 +1,5 @@
 # deeplearnigAI
 
-
 Reference:
 
 http://scs.ryerson.ca/~aharley/neural-networks/
