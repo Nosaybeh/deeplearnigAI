@@ -12,4 +12,6 @@ http://scs.ryerson.ca/~aharley/neural-networks/
 
 http://cs231n.github.io/neural-networks-case-study/
 
+Adam paper: 
 
+https://arxiv.org/pdf/1412.6980.pdf
